@@ -26,3 +26,8 @@ The script efficiently discovers open ports using **multi-threading** and saves 
    kubectl config use-context <YOUR_CLUSTER_CONTEXT>
 
 ```
+
+2. **Run it!!**
+```bash
+python3 scanner.py -p 8080
+```
